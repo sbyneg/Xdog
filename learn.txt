@@ -2,3 +2,4 @@ newfile
 newdev1 insert1
 newdev2 insert1
 newdev1 insert2
+update
